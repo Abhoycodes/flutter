@@ -1,4 +1,3 @@
-# flutter
 import 'package:ecommerceapp/UI/views/product_details_view.dart';
 import 'package:ecommerceapp/models/new_model.dart';
 import 'package:ecommerceapp/services/product_bloc/getproduct_bloc.dart';
